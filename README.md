@@ -3,6 +3,6 @@ finally learning github
 
 this is just a test of me updating a file and making my first commit!
 
-petra thinks this is so cool
+petra thinks this is so cool aaa
 
 Qian added some text.
